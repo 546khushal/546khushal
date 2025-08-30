@@ -1,4 +1,4 @@
-![@khushal's banner]()
+![@khushal's banner](https://github.com/546khushal/546khushal/blob/main/MyBanner.png)
 #  Hi, I’m Khushal Kumar 👋  
 
 **I build real-world applications with Python, Django, Java, and Spring Boot. I love crafting clean, scalable logic and delivering impactful solutions.**
